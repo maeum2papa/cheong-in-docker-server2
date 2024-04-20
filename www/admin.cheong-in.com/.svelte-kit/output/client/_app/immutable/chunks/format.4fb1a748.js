@@ -1,0 +1,1 @@
+let n=["누수탐지공사","배관공사","막힘 소통공사","방수공사","칸막이·창틀","기타 건물유지 보수","기타"];const r=a=>n[a-1],l=a=>{let o=new Date(a),t=o.getMonth()+1,e=o.getDate();return t=t>=10?t:"0"+t,e=e>=10?e:"0"+e,o.getFullYear()+"-"+t+"-"+e};export{r as c,l as d};

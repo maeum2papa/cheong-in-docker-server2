@@ -1,0 +1,47 @@
+{
+	"/": [
+		"src/routes/+page.js"
+	],
+	"/api/auth": [
+		"src/routes/api/auth/+server.js"
+	],
+	"/api/case": [
+		"src/routes/api/case/+server.js"
+	],
+	"/api/case/add": [
+		"src/routes/api/case/add/+server.js"
+	],
+	"/api/case/delete": [
+		"src/routes/api/case/delete/+server.js"
+	],
+	"/api/case/edit": [
+		"src/routes/api/case/edit/+server.js"
+	],
+	"/api/faq": [
+		"src/routes/api/faq/+server.js"
+	],
+	"/api/faq/add": [
+		"src/routes/api/faq/add/+server.js"
+	],
+	"/api/faq/delete": [
+		"src/routes/api/faq/delete/+server.js"
+	],
+	"/api/faq/edit": [
+		"src/routes/api/faq/edit/+server.js"
+	],
+	"/api/login": [
+		"src/routes/api/login/+server.js"
+	],
+	"/api/logout": [
+		"src/routes/api/logout/+server.js"
+	],
+	"/case": [],
+	"/case/add": [],
+	"/case/edit/[id]": [],
+	"/case/[id]": [],
+	"/faq": [],
+	"/faq/add": [],
+	"/faq/edit/[id]": [],
+	"/faq/[id]": [],
+	"/login": []
+}

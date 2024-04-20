@@ -1,0 +1,13 @@
+{
+	"/": [],
+	"/api/case": [
+		"src/routes/api/case/+server.js"
+	],
+	"/api/faq": [
+		"src/routes/api/faq/+server.js"
+	],
+	"/case": [],
+	"/case/[id]": [],
+	"/cs": [],
+	"/faq": []
+}

@@ -1,0 +1,91 @@
+Listening on 0.0.0.0:3000
+Listening on 0.0.0.0:3000
+Listening on 0.0.0.0:3000
+Error: Not found: /favicon.ico
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+Error: Not found: /favicon.png
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+Error: Not found: /favicon.png
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+Error: Not found: /favicon.png
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+Error: Not found: /favicon.png
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+Listening on 0.0.0.0:3000
+Error: Not found: /Public/home/js/check.js
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+Error: Not found: /static/admin/javascript/hetong.js
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+Error: Not found: /Public/home/js/check.js
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+Error: Not found: /static/admin/javascript/hetong.js
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+Error: Not found: /robots.txt
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+Listening on 0.0.0.0:3000
+Listening on 0.0.0.0:3000
+Error: Not found: /favicon.png
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+Error: Not found: /favicon.ico
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+Error: Not found: /login/favicon.ico
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+Error: Not found: /xmlrpc.php
+    at resolve (file:///home/node/app/build/server/index.js:3909:18)
+    at resolve (file:///home/node/app/build/server/index.js:3748:34)
+    at #options.hooks.handle (file:///home/node/app/build/server/index.js:3975:61)
+    at respond (file:///home/node/app/build/server/index.js:3746:43)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+node:internal/modules/cjs/loader:1042
+  throw err;
+  ^
+
+Error: Cannot find module '/var/www/html/admin.cheong-in.com/cheong-in.com/build/index.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+    at Module._load (node:internal/modules/cjs/loader:885:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v18.13.0
